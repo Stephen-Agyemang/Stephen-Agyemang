@@ -5,11 +5,6 @@
 <p align="center">
   <a href="https://github.com/Stephen-Agyemang"><img src="https://img.shields.io/github/followers/Stephen-Agyemang?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=0B0F19" alt="Followers" /></a>
   <a href="https://github.com/Stephen-Agyemang?tab=repositories"><img src="https://img.shields.io/github/stars/Stephen-Agyemang?label=Stars&style=for-the-badge&color=4FACFE&logo=github&logoColor=0B0F19" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Stephen-Agyemang&color=00f2fe&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+&amp;+Building;DX+%2B+UX+Enthusiast" alt="Typing SVG" />
 </p>
 
 &nbsp;
@@ -54,21 +49,6 @@ Hey there! 👋 I am **Stephen Agyemang**, a passionate Software Engineer and di
     </td>
   </tr>
 </table>
-
-&nbsp;
-
----
-
-### 📊 Real-time Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&bg_color=0B0F19&hide_border=true" alt="Stephen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&bg_color=0B0F19&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
 
 &nbsp;
 
