@@ -19,8 +19,8 @@
         }
 
         .container {
-          width: 180%;
-          height: 278px;
+          width: 160%;
+          height: 280px;
           background: #0B0F19;
           font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
           display: flex;
