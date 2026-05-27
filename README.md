@@ -20,7 +20,7 @@
 
 #### 🚀 About Me
 I am **Stephen Agyemang**, a Software Engineer crafting high-performance, premium web applications. I focus on full-stack architecture, clean design, and building seamless digital experiences.
-* **Focused on**: Client-facing platforms & full-stack systems design.
+* **Programming Languages**: Java | Python, C++ | Javascript
 * **Core Stack**: JavaScript | TypeScript | React | Next.js | Node.js | Express | Git | Vite
 
 #### 📊 Live Metrics
