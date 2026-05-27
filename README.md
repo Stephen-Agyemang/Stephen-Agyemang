@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.svg" alt="Stephen Agyemang Banner" width="100%" />
-</p>
+<img src="./banner.svg" alt="Stephen Agyemang Banner" width="100%" />
 
 <p align="center">
   <a href="https://linkedin.com/in/stephen-agyemang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=LinkedIn&logoColor=00F2FE" alt="LinkedIn" /></a>
