@@ -1,16 +1,77 @@
-## Hi there 👋
+#
 
-<!--
-**Stephen-Agyemang/Stephen-Agyemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./banner.svg" alt="Stephen Agyemang Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Stephen-Agyemang"><img src="https://img.shields.io/github/followers/Stephen-Agyemang?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=0B0F19" alt="Followers" /></a>
+  <a href="https://github.com/Stephen-Agyemang?tab=repositories"><img src="https://img.shields.io/github/stars/Stephen-Agyemang?label=Stars&style=for-the-badge&color=4FACFE&logo=github&logoColor=0B0F19" alt="Stars" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+Hey there! 👋 I am **Stephen Agyemang**, a passionate Software Engineer and digital architect dedicated to crafting high-performance, premium web applications and intelligent software systems. I thrive on solving complex engineering challenges and creating seamless, beautiful user experiences.
+
+- 🔭 **Currently focused on**: Developing robust client-facing platforms and sharpening full-stack systems design.
+- 🌱 **Learning & Exploring**: Edge computing, advanced system design patterns, and reactive design structures.
+- 💬 **Ask me about**: Javascript/Typescript architecture, component engineering, or modern web performance optimizations.
+- ⚡ **Fun fact**: I believe clean code is a work of art, and developer experience (DX) is just as critical as user experience (UX).
+
+---
+
+### 🛠️ Tech Stack & Capabilities
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>💻 Languages</h4>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>⚡ Frameworks &amp; Libraries</h4>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <br/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🔧 Tools &amp; Ecosystem</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <br/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Real-time Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stephen-Agyemang&show_icons=true&hide_border=true&theme=radical&bg_color=0B0F19&title_color=00F2FE&icon_color=4FACFE&text_color=94A3B8" alt="Stephen's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&hide_border=true&theme=radical&bg_color=0B0F19&title_color=00F2FE&icon_color=4FACFE&text_color=94A3B8" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&hide_border=true&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE" alt="GitHub Streak" width="98%" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/Stephen-Agyemang"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Gmail" /></a>
+</p>
+
+<p align="center">
+  <sub>Designed with ❤️ by Stephen Agyemang</sub>
+</p>
