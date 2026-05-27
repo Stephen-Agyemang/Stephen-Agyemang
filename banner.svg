@@ -1,0 +1,177 @@
+<svg fill="none" viewBox="0 0 800 280" width="100%" height="280" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes rotate-gradient {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+
+        @keyframes pulse-glow {
+          0%, 100% { box-shadow: 0 0 15px rgba(0, 242, 254, 0.2), 0 0 30px rgba(79, 172, 254, 0.1); }
+          50% { box-shadow: 0 0 25px rgba(0, 242, 254, 0.4), 0 0 50px rgba(79, 172, 254, 0.3); }
+        }
+
+        @keyframes float-grid {
+          0%, 100% { transform: translateY(0px); }
+          50% { transform: translateY(-4px); }
+        }
+
+        .container {
+          width: 100%;
+          height: 278px;
+          background: #0B0F19;
+          font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          position: relative;
+          overflow: hidden;
+          border: 1px solid rgba(255, 255, 255, 0.08);
+          border-radius: 16px;
+          box-sizing: border-box;
+          animation: pulse-glow 6s infinite ease-in-out;
+        }
+
+        .grid-background {
+          position: absolute;
+          top: -20%;
+          left: -20%;
+          width: 140%;
+          height: 140%;
+          background-image: 
+            linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+          background-size: 30px 30px;
+          transform: perspective(500px) rotateX(25deg);
+          animation: float-grid 8s infinite ease-in-out;
+          z-index: 1;
+        }
+
+        .glow-circle-1 {
+          position: absolute;
+          width: 300px;
+          height: 300px;
+          border-radius: 50%;
+          background: radial-gradient(circle, rgba(0, 242, 254, 0.12) 0%, transparent 70%);
+          top: -50px;
+          left: -50px;
+          z-index: 2;
+        }
+
+        .glow-circle-2 {
+          position: absolute;
+          width: 350px;
+          height: 350px;
+          border-radius: 50%;
+          background: radial-gradient(circle, rgba(79, 172, 254, 0.1) 0%, transparent 70%);
+          bottom: -80px;
+          right: -50px;
+          z-index: 2;
+        }
+
+        .content {
+          position: relative;
+          z-index: 10;
+          text-align: center;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+        }
+
+        .tag {
+          font-size: 11px;
+          text-transform: uppercase;
+          letter-spacing: 4px;
+          color: #00F2FE;
+          font-weight: 700;
+          background: rgba(0, 242, 254, 0.08);
+          padding: 6px 14px;
+          border-radius: 30px;
+          border: 1px solid rgba(0, 242, 254, 0.2);
+          margin-bottom: 16px;
+          box-shadow: 0 2px 10px rgba(0, 242, 254, 0.05);
+        }
+
+        .title {
+          font-size: 42px;
+          font-weight: 800;
+          letter-spacing: -0.5px;
+          margin: 0 0 10px 0;
+          background: linear-gradient(135deg, #FFFFFF 30%, #A5B4FC 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+          font-size: 16px;
+          color: #94A3B8;
+          font-weight: 400;
+          letter-spacing: 0.5px;
+          margin-bottom: 24px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+
+        .subtitle::before, .subtitle::after {
+          content: '';
+          display: inline-block;
+          width: 20px;
+          height: 1px;
+          background: linear-gradient(90deg, transparent, #4FACFE);
+        }
+        .subtitle::after {
+          background: linear-gradient(90deg, #4FACFE, transparent);
+        }
+
+        .status-container {
+          display: flex;
+          gap: 15px;
+        }
+
+        .status-item {
+          font-size: 12px;
+          color: #E2E8F0;
+          background: rgba(255, 255, 255, 0.03);
+          border: 1px solid rgba(255, 255, 255, 0.06);
+          padding: 6px 14px;
+          border-radius: 8px;
+          display: flex;
+          align-items: center;
+          gap: 6px;
+        }
+
+        .dot {
+          width: 6px;
+          height: 6px;
+          background-color: #00F2FE;
+          border-radius: 50%;
+          box-shadow: 0 0 8px #00F2FE;
+        }
+      </style>
+      <div class="container">
+        <div class="grid-background"></div>
+        <div class="glow-circle-1"></div>
+        <div class="glow-circle-2"></div>
+        <div class="content">
+          <div class="tag">System Online</div>
+          <h1 class="title">STEPHEN AGYEMANG</h1>
+          <div class="subtitle">Software Engineer &amp; Tech Enthusiast</div>
+          <div class="status-container">
+            <div class="status-item">
+              <span class="dot"></span>
+              <span>Building digital experiences</span>
+            </div>
+            <div class="status-item" style="border-color: rgba(79, 172, 254, 0.15)">
+              <span class="dot" style="background-color: #4FACFE; box-shadow: 0 0 8px #4FACFE"></span>
+              <span>Always learning</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
