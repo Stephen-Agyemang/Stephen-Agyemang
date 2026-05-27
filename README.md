@@ -54,6 +54,21 @@ Hey there! 👋 I am **Stephen Agyemang**, a passionate Software Engineer and di
 
 ---
 
+### 📊 Real-time Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&bg_color=0B0F19&hide_border=true" alt="Stephen's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&bg_color=0B0F19&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&hide_border=true" alt="GitHub Streak" width="98%" />
+</p>
+
+&nbsp;
+
+---
+
 ### 🤝 Let's Connect!
 
 <p align="center">
