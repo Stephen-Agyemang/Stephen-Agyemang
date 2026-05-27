@@ -1,7 +1,7 @@
 <img src="./banner.svg" alt="Stephen Agyemang Banner" width="100%" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/stephen-agyemang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/stephen-agyemang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://app.joinhandshake.com/profiles/stephen_agyemang" target="_blank"><img src="https://img.shields.io/badge/Handshake-0B0F19?style=flat-square&logo=handshake&logoColor=00F2FE" alt="Handshake" /></a>
   <a href="https://www.instagram.com/darrshy_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0B0F19?style=flat-square&logo=instagram&logoColor=00F2FE" alt="Instagram" /></a>
   <a href="https://stephen-vite.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=flat-square&logo=react&logoColor=00F2FE" alt="Portfolio" /></a>
