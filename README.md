@@ -1,29 +1,31 @@
 #
-
 <p align="center">
   <img src="./banner.svg" alt="Stephen Agyemang Banner" width="100%" />
 </p>
-
 <p align="center">
   <a href="https://github.com/Stephen-Agyemang"><img src="https://img.shields.io/github/followers/Stephen-Agyemang?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=0B0F19" alt="Followers" /></a>
   <a href="https://github.com/Stephen-Agyemang?tab=repositories"><img src="https://img.shields.io/github/stars/Stephen-Agyemang?label=Stars&style=for-the-badge&color=4FACFE&logo=github&logoColor=0B0F19" alt="Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Stephen-Agyemang&color=00f2fe&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+&amp;+Building;DX+%2B+UX+Enthusiast" alt="Typing SVG" />
+</p>
 ---
-
 ### 🚀 About Me
-
 Hey there! 👋 I am **Stephen Agyemang**, a passionate Software Engineer and digital architect dedicated to crafting high-performance, premium web applications and intelligent software systems. I thrive on solving complex engineering challenges and creating seamless, beautiful user experiences.
-
 - 🔭 **Currently focused on**: Developing robust client-facing platforms and sharpening full-stack systems design.
 - 🌱 **Learning & Exploring**: Edge computing, advanced system design patterns, and reactive design structures.
 - 💬 **Ask me about**: Javascript/Typescript architecture, component engineering, or modern web performance optimizations.
 - ⚡ **Fun fact**: I believe clean code is a work of art, and developer experience (DX) is just as critical as user experience (UX).
-
 ---
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Stephen-Agyemang&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Stephen's Trophies" />
+  </a>
+</p>
+---
 ### 🛠️ Tech Stack & Capabilities
-
 <table align="center" width="100%">
   <tr>
     <td width="33.3%" valign="top">
@@ -49,29 +51,21 @@ Hey there! 👋 I am **Stephen Agyemang**, a passionate Software Engineer and di
     </td>
   </tr>
 </table>
-
 ---
-
 ### 📊 Real-time Metrics & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stephen-Agyemang&show_icons=true&hide_border=true&theme=radical&bg_color=0B0F19&title_color=00F2FE&icon_color=4FACFE&text_color=94A3B8" alt="Stephen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&hide_border=true&theme=radical&bg_color=0B0F19&title_color=00F2FE&icon_color=4FACFE&text_color=94A3B8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&bg_color=0B0F19&hide_border=true" alt="Stephen's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&bg_color=0B0F19&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&hide_border=true&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
-
 ---
-
 ### 🤝 Let's Connect!
-
 <p align="center">
   <a href="https://github.com/Stephen-Agyemang"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Gmail" /></a>
 </p>
-
 <p align="center">
   <sub>Designed with ❤️ by Stephen Agyemang</sub>
 </p>
