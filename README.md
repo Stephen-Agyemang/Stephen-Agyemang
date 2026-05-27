@@ -3,9 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Stephen-Agyemang"><img src="https://img.shields.io/github/followers/Stephen-Agyemang?label=Followers&style=flat-square&color=00F2FE&logo=github&logoColor=0B0F19" alt="Followers" /></a>
-  <a href="https://github.com/Stephen-Agyemang?tab=repositories"><img src="https://img.shields.io/github/stars/Stephen-Agyemang?label=Stars&style=flat-square&color=4FACFE&logo=github&logoColor=0B0F19" alt="Stars" /></a>
+  <a href="https://github.com/Stephen-Agyemang" target="_blank"><img src="https://img.shields.io/github/followers/Stephen-Agyemang?label=Followers&style=flat-square&color=00F2FE&logo=github&logoColor=0B0F19" alt="Followers" /></a>
+  <a href="https://github.com/Stephen-Agyemang?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/Stephen-Agyemang?label=Stars&style=flat-square&color=4FACFE&logo=github&logoColor=0B0F19" alt="Stars" /></a>
   <img src="https://komarev.com/ghpvc/?username=Stephen-Agyemang&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://linkedin.com/in/stephen-agyemang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" /></a>
+  <a href="https://app.joinhandshake.com/profiles/stephen_agyemang" target="_blank"><img src="https://img.shields.io/badge/Handshake-0B0F19?style=flat-square&logo=handshake&logoColor=00F2FE" alt="Handshake" /></a>
+  <a href="https://www.instagram.com/darrshy_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0B0F19?style=flat-square&logo=instagram&logoColor=00F2FE" alt="Instagram" /></a>
+  <a href="https://stephen-vite.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=flat-square&logo=react&logoColor=00F2FE" alt="Portfolio" /></a>
+  <a href="mailto:agyemangstephen2580@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0B0F19?style=flat-square&logo=gmail&logoColor=00F2FE" alt="Gmail" /></a>
 </p>
 
 <p align="center">
@@ -36,17 +41,6 @@ I am **Stephen Agyemang**, a Software Engineer crafting high-performance, premiu
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&hide_border=true" width="98%" height="120" />
-</p>
-
----
-
-#### 🤝 Let's Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/stephen-agyemang" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" /></a>
-  <a href="https://app.joinhandshake.com/profiles/stephen_agyemang" target="_blank"><img src="https://img.shields.io/badge/Handshake-0B0F19?style=flat-square&logo=handshake&logoColor=00F2FE" alt="Handshake" /></a>
-  <a href="https://www.instagram.com/darrshy_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0B0F19?style=flat-square&logo=instagram&logoColor=00F2FE" alt="Instagram" /></a>
-  <a href="https://stephen-vite.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=flat-square&logo=react&logoColor=00F2FE" alt="Portfolio" /></a>
-  <a href="mailto:agyemangstephen2580@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0B0F19?style=flat-square&logo=gmail&logoColor=00F2FE" alt="Gmail" /></a>
 </p>
 
 <p align="center">
