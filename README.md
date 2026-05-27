@@ -1,5 +1,3 @@
-#
-
 <p align="center">
   <img src="./banner.svg" alt="Stephen Agyemang Banner" width="100%" />
 </p>
