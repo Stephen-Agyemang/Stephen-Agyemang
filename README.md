@@ -78,7 +78,7 @@ Hey there! 👋 I am **Stephen Agyemang**, a passionate Software Engineer and di
 
 <p align="center">
   <a href="https://github.com/Stephen-Agyemang"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Gmail" /></a>
+  <a href="mailto:agyemangstephen2580@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Gmail" /></a>
 </p>
 
 <p align="center">
