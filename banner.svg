@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 800 280" width="100%" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 1200 170" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="1200" height="170">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         @keyframes rotate-gradient {
@@ -9,19 +9,18 @@
         }
 
         @keyframes pulse-glow {
-          0%, 100% { box-shadow: 0 0 15px rgba(0, 242, 254, 0.2), 0 0 30px rgba(79, 172, 254, 0.1); }
-          50% { box-shadow: 0 0 25px rgba(0, 242, 254, 0.4), 0 0 50px rgba(79, 172, 254, 0.3); }
+          0%, 100% { box-shadow: 0 0 12px rgba(0, 242, 254, 0.15), 0 0 25px rgba(79, 172, 254, 0.08); }
+          50% { box-shadow: 0 0 20px rgba(0, 242, 254, 0.3), 0 0 40px rgba(79, 172, 254, 0.2); }
         }
 
         @keyframes float-grid {
           0%, 100% { transform: translateY(0px); }
-          50% { transform: translateY(-4px); }
+          50% { transform: translateY(-3px); }
         }
 
         .container {
-          width: 100%;
-          min-height: 280px;
-          height: 100%;
+          width: 1200px;
+          height: 170px;
           background: #0B0F19;
           font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
           display: flex;
@@ -30,45 +29,45 @@
           align-items: center;
           position: relative;
           overflow: hidden;
-          border: 1px solid rgba(255, 255, 255, 0.08);
-          border-radius: 16px;
+          border: 1px solid rgba(255, 255, 255, 0.06);
+          border-radius: 12px;
           box-sizing: border-box;
           animation: pulse-glow 6s infinite ease-in-out;
         }
 
         .grid-background {
           position: absolute;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;
+          top: -40%;
+          left: -10%;
+          width: 120%;
+          height: 180%;
           background-image: 
-            linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
-            linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+            linear-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(255, 255, 255, 0.015) 1px, transparent 1px);
           background-size: 30px 30px;
-          transform: perspective(500px) rotateX(25deg);
+          transform: perspective(500px) rotateX(15deg);
           animation: float-grid 8s infinite ease-in-out;
           z-index: 1;
         }
 
         .glow-circle-1 {
           position: absolute;
-          width: 300px;
-          height: 300px;
+          width: 400px;
+          height: 400px;
           border-radius: 50%;
-          background: radial-gradient(circle, rgba(0, 242, 254, 0.12) 0%, transparent 70%);
-          top: -50px;
+          background: radial-gradient(circle, rgba(0, 242, 254, 0.1) 0%, transparent 70%);
+          top: -150px;
           left: -50px;
           z-index: 2;
         }
 
         .glow-circle-2 {
           position: absolute;
-          width: 350px;
-          height: 350px;
+          width: 400px;
+          height: 400px;
           border-radius: 50%;
-          background: radial-gradient(circle, rgba(79, 172, 254, 0.1) 0%, transparent 70%);
-          bottom: -80px;
+          background: radial-gradient(circle, rgba(79, 172, 254, 0.08) 0%, transparent 70%);
+          bottom: -150px;
           right: -50px;
           z-index: 2;
         }
@@ -80,38 +79,38 @@
           display: flex;
           flex-direction: column;
           align-items: center;
+          width: 100%;
         }
 
         .tag {
-          font-size: 11px;
+          font-size: 9px;
           text-transform: uppercase;
-          letter-spacing: 4px;
+          letter-spacing: 3px;
           color: #00F2FE;
           font-weight: 700;
-          background: rgba(0, 242, 254, 0.08);
-          padding: 6px 14px;
-          border-radius: 30px;
-          border: 1px solid rgba(0, 242, 254, 0.2);
-          margin-bottom: 16px;
-          box-shadow: 0 2px 10px rgba(0, 242, 254, 0.05);
+          background: rgba(0, 242, 254, 0.06);
+          padding: 3px 10px;
+          border-radius: 20px;
+          border: 1px solid rgba(0, 242, 254, 0.15);
+          margin-bottom: 8px;
         }
 
         .title {
-          font-size: 42px;
+          font-size: 36px;
           font-weight: 800;
           letter-spacing: -0.5px;
-          margin: 0 0 10px 0;
+          margin: 0 0 4px 0;
           background: linear-gradient(135deg, #FFFFFF 30%, #A5B4FC 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
         }
 
         .subtitle {
-          font-size: 16px;
+          font-size: 14px;
           color: #94A3B8;
           font-weight: 400;
           letter-spacing: 0.5px;
-          margin-bottom: 24px;
+          margin-bottom: 12px;
           display: flex;
           align-items: center;
           gap: 8px;
@@ -120,7 +119,7 @@
         .subtitle::before, .subtitle::after {
           content: '';
           display: inline-block;
-          width: 20px;
+          width: 15px;
           height: 1px;
           background: linear-gradient(90deg, transparent, #4FACFE);
         }
@@ -130,27 +129,27 @@
 
         .status-container {
           display: flex;
-          gap: 15px;
+          gap: 12px;
         }
 
         .status-item {
-          font-size: 12px;
+          font-size: 10px;
           color: #E2E8F0;
-          background: rgba(255, 255, 255, 0.03);
-          border: 1px solid rgba(255, 255, 255, 0.06);
-          padding: 6px 14px;
-          border-radius: 8px;
+          background: rgba(255, 255, 255, 0.02);
+          border: 1px solid rgba(255, 255, 255, 0.04);
+          padding: 3px 10px;
+          border-radius: 6px;
           display: flex;
           align-items: center;
-          gap: 6px;
+          gap: 5px;
         }
 
         .dot {
-          width: 6px;
-          height: 6px;
+          width: 5px;
+          height: 5px;
           background-color: #00F2FE;
           border-radius: 50%;
-          box-shadow: 0 0 8px #00F2FE;
+          box-shadow: 0 0 5px #00F2FE;
         }
       </style>
       <div class="container">
@@ -166,8 +165,8 @@
               <span class="dot"></span>
               <span>Building digital experiences</span>
             </div>
-            <div class="status-item" style="border-color: rgba(79, 172, 254, 0.15)">
-              <span class="dot" style="background-color: #4FACFE; box-shadow: 0 0 8px #4FACFE"></span>
+            <div class="status-item" style="border-color: rgba(79, 172, 254, 0.1)">
+              <span class="dot" style="background-color: #4FACFE; box-shadow: 0 0 5px #4FACFE"></span>
               <span>Always learning</span>
             </div>
           </div>
