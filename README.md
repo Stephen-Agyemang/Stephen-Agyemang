@@ -17,15 +17,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=400&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+&amp;+Building" alt="Typing SVG" />
 </p>
-
 Hi there! I am **Stephen Agyemang** 👋 — a Computer Science Honor Scholar at DePauw University building high-performance web applications and agentic workflows.
 
 * 🎓 **Academic**: DePauw Honor Scholar with a 3.97 GPA
-* 🌐 **Leadership**: GDG Design & Tech Lead representing DPU at the San Jose GDG Summit
+* 🌐 **Leadership**: GDG Design & Tech Lead represented DPU at the San Jose Google I/O and GDG Summit
 * 🛠️ **Core Stack**: Java | Python | React | Next.js | Spring Boot | FastAPI | Docker | Antigravity
 
 &nbsp;
-
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&hide_border=true" width="48%" />
