@@ -17,33 +17,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=16&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=450&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+&amp;+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=400&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+&amp;+Building" alt="Typing SVG" />
 </p>
-
----
 
 #### 🚀 About Me
 I am **Stephen Agyemang**, a Software Engineer crafting high-performance, premium web applications. I focus on full-stack architecture, clean design, and building seamless digital experiences.
-* 🔭 **Focused on**: Client-facing platforms & full-stack systems design.
-* 🌱 **Learning**: Edge computing & advanced reactive architectures.
-
----
-
-#### 🛠️ Core Stack & Tooling
-* **Languages**: JavaScript, TypeScript, HTML5, CSS3
-* **Frameworks**: React, Next.js, Node.js, Express
-* **Tools**: Git, GitHub, VS Code, Vite
-
----
+* **Focused on**: Client-facing platforms & full-stack systems design.
+* **Core Stack**: JavaScript | TypeScript | React | Next.js | Node.js | Express | Git | Vite
 
 #### 📊 Live Metrics
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&hide_border=true" width="46%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&hide_border=true" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&hide_border=true" width="98%" height="120" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&theme=radical&background=0B0F19&ring=00F2FE&fire=4FACFE&currStreakLabel=00F2FE&hide_border=true" width="94%" height="110" />
 </p>
 
 <p align="center">
