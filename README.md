@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=400&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+&amp;+Building" alt="Typing SVG" />
 </p>
 
-Hi there! I am **Stephen Agyemang** 👋 — a Computer Science Honor Scholar at DePauw University building high-performance web applications and agentic workflows.
+Hi there! I am **Stephen Agyemang** 👋 — a Computer Science Honor Scholar at DePauw University learning through building projects and deepening my knowledge on AI and backend development
 
 * 🎓 **Academic**: DePauw Honor Scholar with a 3.97 GPA
 * 🌐 **Leadership**: GDG Design & Tech Lead representing DPU at the San Jose GDG Summit
