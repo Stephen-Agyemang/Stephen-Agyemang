@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://github.com/Stephen-Agyemang" target="_blank"><img src="https://img.shields.io/github/followers/Stephen-Agyemang?label=Followers&style=flat-square&color=00F2FE&logo=github&logoColor=0B0F19" alt="Followers" /></a>
   <a href="https://github.com/Stephen-Agyemang?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/Stephen-Agyemang?label=Stars&style=flat-square&color=4FACFE&logo=github&logoColor=0B0F19" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Stephen-Agyemang&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -28,8 +27,8 @@ Hi there! I am **Stephen Agyemang** 👋 — a Computer Science Honor Scholar at
 &nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
