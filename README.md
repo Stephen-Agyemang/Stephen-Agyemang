@@ -9,11 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Stephen-Agyemang" target="_blank"><img src="https://img.shields.io/github/followers/Stephen-Agyemang?label=Followers&style=flat-square&color=00F2FE&logo=github&logoColor=0B0F19" alt="Followers" /></a>
-  <a href="https://github.com/Stephen-Agyemang?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/Stephen-Agyemang?label=Stars&style=flat-square&color=4FACFE&logo=github&logoColor=0B0F19" alt="Stars" /></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=400&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+&amp;+Building" alt="Typing SVG" />
 </p>
 
