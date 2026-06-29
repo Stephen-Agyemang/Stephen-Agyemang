@@ -23,10 +23,5 @@ Hi there! I am **Stephen Agyemang** 👋 — a Computer Science & Honor Scholar 
 &nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stephen-Agyemang&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Agyemang&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-</p>
-
-<p align="center">
   <sub>Designed with ❤️ by Stephen Agyemang</sub>
 </p>
