@@ -16,7 +16,7 @@
 Hi there! I am **Stephen Agyemang** 👋 — a Computer Science & Honor Scholar at DePauw University learning through building projects and deepening my knowledge on AI and backend development
 
 * 🎓 **Academic**: Computer Science @ DePauw University
-* 🌐 **Leadership**: GDG on Campus Design & Tech Lead (representing DPU at Google I/O and GDG/GDE Summit), DISA, ASA & DPU Futbol Club
+* 🌐 **Leadership**: Tech & Design Lead for GDG on Campus (represented DPU at Google I/O & GDG/GDE Summit),DISA,ASA & DPU Futbol Club
 * 🧠 **Learning & Research**: Backend & Cloud Architecture | AI, Deep Learning (DL), & Machine Learning (ML) Research
 * 🛠️ **Core Stack**: Java | Python | C++ | Spring Boot | FastAPI | React | Docker | JavaScript
 
