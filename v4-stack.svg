@@ -6,25 +6,26 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">
     <g fill="#111A23" stroke="#314150">
-      <rect x="48" y="130" width="112" height="44" rx="5"/><rect x="172" y="130" width="126" height="44" rx="5"/>
-      <rect x="310" y="130" width="98" height="44" rx="5"/><rect x="420" y="130" width="154" height="44" rx="5"/>
-      <rect x="586" y="130" width="160" height="44" rx="5"/><rect x="758" y="130" width="124" height="44" rx="5"/>
-      <rect x="894" y="130" width="112" height="44" rx="5"/><rect x="1018" y="130" width="126" height="44" rx="5"/>
-      <rect x="1156" y="130" width="122" height="44" rx="5"/>
+      <rect x="48" y="130" width="100" height="44" rx="5"/><rect x="158" y="130" width="112" height="44" rx="5"/>
+      <rect x="280" y="130" width="88" height="44" rx="5"/><rect x="378" y="130" width="145" height="44" rx="5"/>
+      <rect x="533" y="130" width="130" height="44" rx="5"/><rect x="673" y="130" width="100" height="44" rx="5"/>
+      <rect x="783" y="130" width="115" height="44" rx="5"/><rect x="908" y="130" width="115" height="44" rx="5"/>
+      <rect x="1033" y="130" width="145" height="44" rx="5"/><rect x="1188" y="130" width="85" height="44" rx="5"/>
     </g>
-    <text x="72" y="158" fill="#9DEDE4">JAVA</text>
-    <text x="196" y="158" fill="#B8D9FF">PYTHON</text>
-    <text x="334" y="158" fill="#FFD77E">C++</text>
-    <text x="444" y="158" fill="#9DEDE4">SPRING BOOT</text>
-    <text x="610" y="158" fill="#B8D9FF">FASTAPI</text>
-    <text x="782" y="158" fill="#FFD77E">REACT</text>
-    <text x="918" y="158" fill="#9DEDE4">NEXT.JS</text>
-    <text x="1042" y="158" fill="#B8D9FF">DOCKER</text>
-    <text x="1180" y="158" fill="#FFD77E">GIT</text>
+    <text x="69" y="158" fill="#9DEDE4">JAVA</text>
+    <text x="179" y="158" fill="#B8D9FF">PYTHON</text>
+    <text x="301" y="158" fill="#FFD77E">C++</text>
+    <text x="396" y="158" fill="#9DEDE4">SPRING BOOT</text>
+    <text x="554" y="158" fill="#B8D9FF">FASTAPI</text>
+    <text x="694" y="158" fill="#FFD77E">REACT</text>
+    <text x="804" y="158" fill="#9DEDE4">NEXT.JS</text>
+    <text x="929" y="158" fill="#B8D9FF">DOCKER</text>
+    <text x="1051" y="158" fill="#9DEDE4">KUBERNETES</text>
+    <text x="1209" y="158" fill="#FFD77E">GIT</text>
   </g>
   <path d="M48 211H1352" stroke="#273340"/>
   <text x="48" y="232" fill="#687786" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">LANGUAGES</text>
   <text x="176" y="232" fill="#A8B5C3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">JAVA · PYTHON · C++ · JAVASCRIPT</text>
   <text x="821" y="232" fill="#687786" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">FOCUS</text>
-  <text x="906" y="232" fill="#A8B5C3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">BACKEND · CLOUD · AI</text>
+  <text x="906" y="232" fill="#A8B5C3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">BACKEND · CLOUD · AI · KUBERNETES</text>
 </svg>
