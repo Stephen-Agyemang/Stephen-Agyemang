@@ -13,20 +13,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=15&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=420&lines=Software+Engineer;Full-Stack+Developer;Always+Learning+%26+Building" alt="Software Engineer, Full-Stack Developer, Always Learning and Building" />
 </p>
 
-<br />
-
 <img src="./v4-profile.svg" alt="About Stephen: academic, leadership, research, and community work" width="100%" />
 
-<br />
-
 <img src="./v4-stack.svg" alt="Stephen's engineering toolkit" width="100%" />
-
-<br />
 
 <h3 align="center">GitHub activity</h3>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&hide_border=true&background=0C1118&ring=31E6D2&fire=FFC857&currStreakLabel=6DB7FF&sideLabels=A8B5C3&dates=687786&currStreakNum=F1F5F9&sideNums=F1F5F9" alt="Stephen's contribution streak" />
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Agyemang&hide_border=true&background=0C1118&ring=31E6D2&fire=FFC857&currStreakLabel=6DB7FF&sideLabels=A8B5C3&dates=687786&currStreakNum=F1F5F9&sideNums=F1F5F9" alt="Stephen's contribution streak" />
 </p>
 
 <p align="center">
