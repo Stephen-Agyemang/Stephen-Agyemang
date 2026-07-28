@@ -20,7 +20,9 @@
 <h3 align="center">GitHub activity</h3>
 
 <p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=Stephen-Agyemang&hide_border=true&background=0C1118&ring=31E6D2&fire=FFC857&currStreakLabel=6DB7FF&sideLabels=A8B5C3&dates=687786&currStreakNum=F1F5F9&sideNums=F1F5F9" alt="Stephen's contribution streak" />
+  <a href="https://github.com/Stephen-Agyemang">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true" alt="Stephen's github activity graph" />
+  </a>
 </p>
 
 <p align="center">
