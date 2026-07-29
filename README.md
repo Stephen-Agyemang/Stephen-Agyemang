@@ -20,7 +20,7 @@
 <h3 align="center">GitHub Contribution</h3>
 <p align="center">
   <a href="https://github.com/Stephen-Agyemang">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true&hide_title=true" alt="GitHub Contribution" />
   </a>
 </p>
 <p align="center">
