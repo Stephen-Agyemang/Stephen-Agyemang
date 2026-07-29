@@ -18,8 +18,14 @@
 <img src="./v4-stack.svg" alt="Stephen's engineering toolkit" width="100%" />
 
 <p align="center">
+  <h3 align="center" style="margin-bottom: 6px;">GitHub Contribution</h3>
+<p align="center" style="margin-top: 0;">
   <a href="https://github.com/Stephen-Agyemang">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true&hide_title=true" alt="GitHub Contribution" height="260" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true&hide_title=true"
+      alt="GitHub Contribution"
+      width="100%"
+    />
   </a>
 </p>
 <p align="center">
