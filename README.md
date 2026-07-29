@@ -23,7 +23,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true" />
   </a>
 </p>
-
 <p align="center">
   <sub>Building carefully. Learning constantly.</sub>
 </p>
