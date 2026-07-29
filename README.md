@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/Stephen-Agyemang">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true" alt="Stephen's github activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true" />
   </a>
 </p>
 
