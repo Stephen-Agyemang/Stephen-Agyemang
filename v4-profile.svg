@@ -17,7 +17,7 @@
   <text x="930" y="88" fill="#A8B5C3" font-family="Arial, Helvetica, sans-serif" font-size="16">Computer Science @ DePauw</text>
   <circle cx="753" cy="122" r="5" fill="#6DB7FF"/>
   <text x="773" y="128" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">LEADERSHIP</text>
-  <text x="930" y="128" fill="#A8B5C3" font-family="Arial, Helvetica, sans-serif" font-size="16">Design &amp; Tech Lead, GDG on Campus</text>
+  <text x="930" y="128" fill="#A8B5C3" font-family="Arial, Helvetica, sans-serif" font-size="16">Tech &amp; Design Lead, GDG on Campus</text>
   <circle cx="753" cy="162" r="5" fill="#FFC857"/>
   <text x="773" y="168" fill="#F1F5F9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">RESEARCH</text>
   <text x="930" y="168" fill="#A8B5C3" font-family="Arial, Helvetica, sans-serif" font-size="16">Machine Learning · Deep Learning</text>
