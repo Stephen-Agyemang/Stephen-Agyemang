@@ -19,7 +19,7 @@
 
 <h3 align="center">GitHub Contribution</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&theme=github-compact&hide_border=true&hide_title=true" alt="GitHub Contribution" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&bg_color=0d1117&color=58a6ff&line=2ea043&point=8b949e&area=true&area_color=2ea043&hide_border=true&hide_title=true" alt="GitHub Contribution" />
 </p>
 <p align="center">
   <sub>Building carefully. Learning constantly.</sub>
