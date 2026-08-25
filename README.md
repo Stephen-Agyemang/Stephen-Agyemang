@@ -17,10 +17,32 @@
 
 <img src="./v4-stack.svg" alt="Stephen's engineering toolkit" width="100%" />
 
-<h3 align="center">GitHub Contribution</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stephen-Agyemang&bg_color=0d1117&color=58a6ff&line=2ea043&point=8b949e&area=true&area_color=2ea043&hide_border=true&hide_title=true" alt="GitHub Contribution" />
-</p>
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Stephen-Agyemang
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <p align="center">
   <sub>Building carefully. Learning constantly.</sub>
 </p>
