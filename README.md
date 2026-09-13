@@ -18,7 +18,7 @@
 
 <h3 align="center">GitHub Contribution</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stephen-Agyemang/Stephen-Agyemang/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution" />
+  <img src="https://raw.githubusercontent.com/Stephen-Agyemang/Stephen-Agyemang/output/github-contribution-grid-snake-dark.gif" alt="GitHub Contribution Snake" />
 </p>
 <p align="center">
   <sub>Building carefully. Learning constantly.</sub>
