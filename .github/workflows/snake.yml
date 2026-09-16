@@ -16,10 +16,8 @@ jobs:
         with:
           github_user_name: Stephen-Agyemang
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/snake-dark.gif?palette=github-dark
+            dist/dots-dark.svg?palette=github-dark&color_dots=#00F2FE,#00D9F5,#00BFE8,#00A6DC,#008DCF
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
