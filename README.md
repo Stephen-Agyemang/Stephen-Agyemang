@@ -5,7 +5,7 @@
   <a href="https://app.joinhandshake.com/profiles/stephen_agyemang"><img src="https://img.shields.io/badge/Handshake-0B0F19?style=flat-square&logo=handshake&logoColor=00F2FE" alt="Handshake" /></a>
   <a href="https://www.instagram.com/darrshy_m/"><img src="https://img.shields.io/badge/Instagram-0B0F19?style=flat-square&logo=instagram&logoColor=00F2FE" alt="Instagram" /></a>
   <a href="https://x.com/darrshy_m"><img src="https://img.shields.io/badge/X-0B0F19?style=flat-square&logo=x&logoColor=00F2FE" alt="X" /></a>
-  <a href="https://stephagyemang-portfolio.web.app"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=flat-square&logo=react&logoColor=00F2FE" alt="Portfolio" /></a>
+  <a href="https://stephenagyemang.com"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=flat-square&logo=react&logoColor=00F2FE" alt="Portfolio" /></a>
   <a href="mailto:agyemangstephen2580@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=flat-square&logo=gmail&logoColor=00F2FE" alt="Email" /></a>
 </p>
 
