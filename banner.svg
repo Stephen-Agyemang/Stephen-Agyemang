@@ -78,7 +78,7 @@
   <!-- Subtitle left line -->
   <line x1="260" y1="114" x2="300" y2="114" stroke="#4FACFE" stroke-width="1" opacity="0.5"/>
   <!-- Subtitle text -->
-  <text x="450" y="118" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="0.5" fill="#94A3B8">Software Engineer &amp; Tech Enthusiast</text>
+  <text x="450" y="118" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="0.5" fill="#94A3B8">Software &amp; Tech</text>
   <!-- Subtitle right line -->
   <line x1="600" y1="114" x2="640" y2="114" stroke="#4FACFE" stroke-width="1" opacity="0.5"/>
 
