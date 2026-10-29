@@ -21,5 +21,5 @@
   <img src="https://raw.githubusercontent.com/Stephen-Agyemang/Stephen-Agyemang/output/snake-dark.gif" alt="Contribution Snake" width="100%" />
 </p>
 <p align="center">
-  <sub>Building carefully. Learning constantly.</sub>
+  <sub>Building while I Learn</sub>
 </p>
