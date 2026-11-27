@@ -16,7 +16,7 @@
 <img src="./v4-profile.svg" alt="About Stephen: academic, leadership, research, and community work" width="100%" />
 <img src="./v4-stack.svg" alt="Stephen's engineering toolkit" width="100%" />
 
-<h3 align="center">GitHub Contribution</h3>
+<h3 align="center">GitHub Contributions</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Stephen-Agyemang/Stephen-Agyemang/output/snake-dark.gif" alt="Contribution Snake" width="100%" />
 </p>
